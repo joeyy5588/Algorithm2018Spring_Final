@@ -1,4 +1,4 @@
-# Algorithm2018Spring_Final
+# Algorithm 2018 Spring Final
 
 ## Introduction
 Final Project of Algorithm 2018 Spring
